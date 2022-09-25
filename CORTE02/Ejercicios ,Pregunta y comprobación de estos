@@ -2,8 +2,8 @@
   este tiene que decir alguna de estas o todas ,este ejercicio tiene que coincidir con la hora actual teniendo 
   en cuenta los ejerciocios de recursios, puede integrar librerias. 
   
-2 Pregunta: dentro de los visto cree un mp3 funcional con funciones o con una interfaz que reproduzca 4 camciones 
-  este tiene que cambiar de una a otra y pausarla cuando se quiera.
+  def actualizacion_del_reloj():
+   etiqueta_hm.config(text=strftime("%H:%M"))
 
 
   
