@@ -1,0 +1,6 @@
+#Ey que buena Cancion
+
+Cree un mp3 el cual pueda reproducir canciones y los requisitos para el funcionamiento de esta tenga en cuenta que se tiene que pausar la musica 
+reproducir la siguiente cancion,y la anterior se puede hacer con una interfaz o como una funcion teniendo en cuenta los ejercicios de recursion.
+
+#def cargar_la_cancion(self,ruta,cancion):
